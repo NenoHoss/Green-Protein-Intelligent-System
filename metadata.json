@@ -1,0 +1,8 @@
+{
+  "name": " Green Protein",
+  "description": "A professional scientific tool to analyze and optimize the amino acid balance of leaf protein blends against FAO/WHO standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
